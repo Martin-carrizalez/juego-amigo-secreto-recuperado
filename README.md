@@ -38,6 +38,9 @@ No se necesita ninguna instalación especial. Simplemente sigue estos pasos:
 2.  Abre el archivo `index.html` en tu navegador web preferido.
 3.  ¡Y a jugar!
 
+🎮 🕹️  o juega presionando este boton directaamente 👉[🎮](https://martin-carrizalez.github.io/juego-amigo-secreto-recuperado/)
+
+
 ---
 
 ## 🧠 Retos y Aprendizajes
