@@ -36,6 +36,11 @@ añadirAmigo.addEventListener('click', function(){                     //apaga e
     else {
     if (capturandoNombreDelJugador) {
         nombreDelJugador = escribeAmigos.value;
+        if (nombreDelJugador == '') {
+        alert('Escribe un nombre válido');
+    } else if (isNaN(nombreDelJugador) == false) {
+        alert('No puedes usar números como nombre.');
+    } else {
         amigos.push(nombreDelJugador);
         escribeAmigos.value = '';
         titulo.textContent = (numeroTotaldeAmigos - 1) == 1 ? 
@@ -47,6 +52,7 @@ añadirAmigo.addEventListener('click', function(){                     //apaga e
         capturandoNombreDelJugador = false;
         
     }
+}
     else{ let nombreAmigo = escribeAmigos.value  
         if (nombreAmigo == ''){alert('Escribe un nombre válido');
         }else if (isNaN(nombreAmigo) == false) { // <-- ¡LA NUEVA REGLA!
