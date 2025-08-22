@@ -37,8 +37,10 @@ No se necesita ninguna instalación especial. Simplemente sigue estos pasos:
 1.  Clona este repositorio en tu máquina local.
 2.  Abre el archivo `index.html` en tu navegador web preferido.
 3.  ¡Y a jugar!
+   
+---
 
-🎮 🕹️  o juega presionando este boton directaamente 👉[🎮](https://martin-carrizalez.github.io/juego-amigo-secreto-recuperado/)
+## 😎 Disfruta del juego presionando el control gamer 👉[🎮](https://martin-carrizalez.github.io/juego-amigo-secreto-recuperado/) 🔥
 
 
 ---
