@@ -42,7 +42,6 @@ No se necesita ninguna instalación especial. Simplemente sigue estos pasos:
 
 ## 🧠 Retos y Aprendizajes
 
-Esta es la sección más importante para un reclutador. Demuestra lo que aprendiste.
 
 Durante el desarrollo de este proyecto, enfrenté y superé varios retos que fueron clave para mi aprendizaje:
 
